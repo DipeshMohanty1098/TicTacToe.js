@@ -1,0 +1,35 @@
+@import "https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap";
+
+.container{
+    cursor: pointer;
+}
+
+body{
+    background-color: black;
+}
+
+h1{
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 50px;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+h2{
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 50px;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+table, td{
+    border: 1px solid white;
+
+}
+
+button {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 50px;
+}
